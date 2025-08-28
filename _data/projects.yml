@@ -1,13 +1,12 @@
-- name: Project One # Project name, also used as heading
+- name: Electrochem LLM # Project name, also used as heading
   id: p1 # Project id, must be unique amongst the projects
   img_src: /assets/img/connectpie-page.png # Optional image
-  description_less: This part of the project description is visible at all times. # Description shown at all times, text only
+  description_less: Fine tuning a Large Language Model for scientific applications. # Description shown at all times, text only
   description_more: > # Description shown only when the project card is expanded, HTML only
-    <p>This part is only seen when you click on the project card.</p> 
+    <p>You need technical knowledge to analyze scientific data but many LLM's struggle to ground their analysis in observations (raw data). <br><br> Making a dataset and training Qwen2.5vl to analyze electrochemical data. <br><br> Like today you dont need to be a programmer to use a computer, in the future you might not need to be a scientist to understand the data</p> 
   action_buttons: > # Action buttons for project, HTML only
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [tag1, tag2] # A list of tags
+  tags: [ML, internship] # A list of tags
 
 - name: Pudina Fresh Jekyll Theme
   id: pf
