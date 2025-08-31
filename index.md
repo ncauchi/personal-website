@@ -7,14 +7,17 @@ description: A minimal yet feature-rich Jekyll theme made for personal websites 
 sitemap:
   priority: 1.0
 ---
-<p class="describe-text">A minimal yet feature-rich Jekyll theme made for personal websites and blogs.</p>
-<br>
-This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
+<p class="describe-text"> I like making cool things and solving problems. </p>
+<img src="assets\img\elephantpic.jpg" style="float: right; margin-left: 100px; margin-bottom: 20px; width: 25vw; height: 25vw; object-fit: cover; min-width: 400px; max-width: 700px; border: 2px solid #808080ff; border-radius: 8px;">
 
-Pudhina Fresh is free and open-source. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
+I'm a computer engineer with experience in AI, and Systems Programming. I love cooking and making cool things that solve real problems and interface with each other. Please contact me at [njcauchi03@gmail.com](#) or check out my [projects](#projects).
 
-<br>
-<br>
+## Projects {#projects}
+
+{% assign projects = site.data.projects %}
+
+{% include project/project_loop.html %}
+
 <br>
 <br>
 <br>

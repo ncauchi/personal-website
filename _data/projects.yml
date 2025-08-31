@@ -1,44 +1,59 @@
 - name: Electrochem LLM # Project name, also used as heading
   id: p1 # Project id, must be unique amongst the projects
   img_src: /assets/img/connectpie-page.png # Optional image
-  description_less: Fine tuning a Large Language Model for scientific applications. # Description shown at all times, text only
+  description_less: (Intership @ Fitchel Institute UMD) Fine tuning a Large Language Model for scientific applications. # Description shown at all times, text only
+  description_more: > # Description shown only when the project card is expanded, HTML only
+    <p>You need technical knowledge to analyze scientific data but many LLM's struggle to ground their analysis in observations (raw data). <br><br> Making a dataset and training Qwen2.5vl to analyze electrochemical data. <br><br> Like today you dont need to be a programmer to use a computer, in the future you might not need to be a scientist to understand the data</p> 
+  action_buttons: > # Action buttons for project, HTML only
+    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+  tags: [ML, internship, tag1] # A list of tags
+
+- name: Lab Automation # Project name, also used as heading
+  id: p2 # Project id, must be unique amongst the projects
+  img_src: /assets/img/connectpie-page.png # Optional image
+  description_less: (Intership @ PYC Lab UMD) Automating data collection for high throughput testing. # Description shown at all times, text only
   description_more: > # Description shown only when the project card is expanded, HTML only
     <p>You need technical knowledge to analyze scientific data but many LLM's struggle to ground their analysis in observations (raw data). <br><br> Making a dataset and training Qwen2.5vl to analyze electrochemical data. <br><br> Like today you dont need to be a programmer to use a computer, in the future you might not need to be a scientist to understand the data</p> 
   action_buttons: > # Action buttons for project, HTML only
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
   tags: [ML, internship] # A list of tags
 
-- name: Pudina Fresh Jekyll Theme
-  id: pf
-  img_src: 
-  description_less: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
-  description_more: >
-    <p>This site uses Pudhina Fresh theme.</p>
-  action_buttons: >
-    <a href="https://github.com/ritijjain/pudhina-fresh" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="https://ritijjain.com/2020/09/12/pudhina-fresh.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [jekyll, open-source]
-
-- name: Project Two
-  id: p2
-  img_src: 
-  description_less: Refer to docs to learn how to add your own projects.
-  description_more: >
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-  action_buttons: >
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+- name: Personal Server Project # Project name, also used as heading
+  id: p3 # Project id, must be unique amongst the projects
+  img_src: /assets/img/connectpie-page.png # Optional image
+  description_less: Hosting web apps and services from my living room. # Description shown at all times, text only
+  description_more: > # Description shown only when the project card is expanded, HTML only
+    <p>You need technical knowledge to analyze scientific data but many LLM's struggle to ground their analysis in observations (raw data). <br><br> Making a dataset and training Qwen2.5vl to analyze electrochemical data. <br><br> Like today you dont need to be a programmer to use a computer, in the future you might not need to be a scientist to understand the data</p> 
+  action_buttons: > # Action buttons for project, HTML only
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [tag3, docs]
+  tags: [personal] # A list of tags
 
-- name: Project Three
-  id: p3
-  img_src: /assets/img/weatherpie-page.png
-  description_less: Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam.
-  description_more: >
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-  action_buttons: >
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+- name: NBA Machine Learning Project # Project name, also used as heading
+  id: p4 # Project id, must be unique amongst the projects
+  img_src: /assets/img/connectpie-page.png # Optional image
+  description_less: Using ML to predict NBA player performance. # Description shown at all times, text only
+  description_more: > # Description shown only when the project card is expanded, HTML only
+    <p>You need technical knowledge to analyze scientific data but many LLM's struggle to ground their analysis in observations (raw data). <br><br> Making a dataset and training Qwen2.5vl to analyze electrochemical data. <br><br> Like today you dont need to be a programmer to use a computer, in the future you might not need to be a scientist to understand the data</p> 
+  action_buttons: > # Action buttons for project, HTML only
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [tag2, tag4]
+  tags: [ML, personal] # A list of tags
+
+- name: Wireless Robotics Control # Project name, also used as heading
+  id: p5 # Project id, must be unique amongst the projects
+  img_src: /assets/img/connectpie-page.png # Optional image
+  description_less: (Intership @ USDA ARS) Using esp32 microcontrollers to wirelessly control 3d clinostat system. # Description shown at all times, text only
+  description_more: > # Description shown only when the project card is expanded, HTML only
+    <p>You need technical knowledge to analyze scientific data but many LLM's struggle to ground their analysis in observations (raw data). <br><br> Making a dataset and training Qwen2.5vl to analyze electrochemical data. <br><br> Like today you dont need to be a programmer to use a computer, in the future you might not need to be a scientist to understand the data</p> 
+  action_buttons: > # Action buttons for project, HTML only
+    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+  tags: [internship] # A list of tags
+
+- name: Over Terrain Vehicle # Project name, also used as heading
+  id: p6 # Project id, must be unique amongst the projects
+  img_src: /assets/img/connectpie-page.png # Optional image
+  description_less: Making an autonomous robot to move and take water samples. # Description shown at all times, text only
+  description_more: > # Description shown only when the project card is expanded, HTML only
+    <p>You need technical knowledge to analyze scientific data but many LLM's struggle to ground their analysis in observations (raw data). <br><br> Making a dataset and training Qwen2.5vl to analyze electrochemical data. <br><br> Like today you dont need to be a programmer to use a computer, in the future you might not need to be a scientist to understand the data</p> 
+  action_buttons: > # Action buttons for project, HTML only
+    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+  tags: [] # A list of tags
