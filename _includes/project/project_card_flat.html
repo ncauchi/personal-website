@@ -10,7 +10,7 @@
         </div>
         <div class="col-sm-4">
             {% if project.img_src %}
-                <img class="post-card-image" src="{{ site.url }}{{ project.img_src }}" loading="lazy">
+                <img class="post-card-image" src="{{ site.url }}{{ site.baseurl }}{{ project.img_src }}" loading="lazy">
             {% endif %} 
         </div>
     </div>
