@@ -6,7 +6,7 @@
     <p>You need technical knowledge to analyze scientific data but many LLM's struggle to ground their analysis in observations (raw data). <br><br> Making a dataset and training Qwen2.5vl to analyze electrochemical data. <br><br> Like today you dont need to be a programmer to use a computer, in the future you might not need to be a scientist to understand the data</p> 
   action_buttons: > # Action buttons for project, HTML only
     <a href="https://www.noahcauchi.dev/2025/08/01/echem_llm.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> Read More</a>
-  tags: [ML, internship, tag1] # A list of tags
+  tags: [ML, internship] # A list of tags
 
 - name: Lab Automation # Project name, also used as heading
   id: p2 # Project id, must be unique amongst the projects
@@ -15,7 +15,7 @@
   description_more: > # Description shown only when the project card is expanded, HTML only
     <p>WIP</p> 
   action_buttons: > # Action buttons for project, HTML only
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+    <a href="https://www.noahcauchi.dev/2000/01/01/wip.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> Read More</a>
   tags: [ML, internship] # A list of tags
 
 - name: Personal Server Project # Project name, also used as heading
@@ -25,7 +25,7 @@
   description_more: > # Description shown only when the project card is expanded, HTML only
     <p>WIP</p> 
   action_buttons: > # Action buttons for project, HTML only
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+    <a href="https://www.noahcauchi.dev/2000/01/01/wip.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> Read More</a>
   tags: [personal] # A list of tags
 
 - name: NBA Machine Learning Project # Project name, also used as heading
@@ -35,7 +35,7 @@
   description_more: > # Description shown only when the project card is expanded, HTML only
     <p>WIP</p> 
   action_buttons: > # Action buttons for project, HTML only
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+    <a href="https://www.noahcauchi.dev/2000/01/01/wip.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> Read More</a>
   tags: [ML, personal] # A list of tags
 
 - name: Wireless Robotics Control # Project name, also used as heading
@@ -45,7 +45,7 @@
   description_more: > # Description shown only when the project card is expanded, HTML only
     <p>WIP</p> 
   action_buttons: > # Action buttons for project, HTML only
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+    <a href="https://www.noahcauchi.dev/2000/01/01/wip.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> Read More</a>
   tags: [internship] # A list of tags
 
 - name: Over Terrain Vehicle # Project name, also used as heading
@@ -55,5 +55,5 @@
   description_more: > # Description shown only when the project card is expanded, HTML only
     <p>WIP</p> 
   action_buttons: > # Action buttons for project, HTML only
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+    <a href="https://www.noahcauchi.dev/2000/01/01/wip.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> Read More</a>
   tags: [] # A list of tags
