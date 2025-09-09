@@ -1,6 +1,6 @@
 - name: Electrochem LLM # Project name, also used as heading
   id: p1 # Project id, must be unique amongst the projects
-  img_src: /assets/img/connectpie-page.png # Optional image
+  img_src: /assets/img/science.jpg # Optional image
   description_less: (Intership @ Fitchel Institute UMD) Fine tuning a Large Language Model for scientific applications. # Description shown at all times, text only
   description_more: > # Description shown only when the project card is expanded, HTML only
     <p>You need technical knowledge to analyze scientific data but many LLM's struggle to ground their analysis in observations (raw data). <br><br> Making a dataset and training Qwen2.5vl to analyze electrochemical data. <br><br> Like today you dont need to be a programmer to use a computer, in the future you might not need to be a scientist to understand the data</p> 
@@ -10,7 +10,7 @@
 
 - name: Lab Automation # Project name, also used as heading
   id: p2 # Project id, must be unique amongst the projects
-  img_src: /assets/img/connectpie-page.png # Optional image
+  img_src: /assets/img/arm.jpg # Optional image
   description_less: (Intership @ PYC Lab UMD) Automating data collection for high throughput testing. # Description shown at all times, text only
   description_more: > # Description shown only when the project card is expanded, HTML only
     <p>You need technical knowledge to analyze scientific data but many LLM's struggle to ground their analysis in observations (raw data). <br><br> Making a dataset and training Qwen2.5vl to analyze electrochemical data. <br><br> Like today you dont need to be a programmer to use a computer, in the future you might not need to be a scientist to understand the data</p> 
@@ -20,7 +20,7 @@
 
 - name: Personal Server Project # Project name, also used as heading
   id: p3 # Project id, must be unique amongst the projects
-  img_src: /assets/img/connectpie-page.png # Optional image
+  img_src: /assets/img/website.jpg # Optional image
   description_less: Hosting web apps and services from my living room. # Description shown at all times, text only
   description_more: > # Description shown only when the project card is expanded, HTML only
     <p>You need technical knowledge to analyze scientific data but many LLM's struggle to ground their analysis in observations (raw data). <br><br> Making a dataset and training Qwen2.5vl to analyze electrochemical data. <br><br> Like today you dont need to be a programmer to use a computer, in the future you might not need to be a scientist to understand the data</p> 
@@ -30,7 +30,7 @@
 
 - name: NBA Machine Learning Project # Project name, also used as heading
   id: p4 # Project id, must be unique amongst the projects
-  img_src: /assets/img/connectpie-page.png # Optional image
+  img_src: /assets/img/basketball.jpg # Optional image
   description_less: Using ML to predict NBA player performance. # Description shown at all times, text only
   description_more: > # Description shown only when the project card is expanded, HTML only
     <p>You need technical knowledge to analyze scientific data but many LLM's struggle to ground their analysis in observations (raw data). <br><br> Making a dataset and training Qwen2.5vl to analyze electrochemical data. <br><br> Like today you dont need to be a programmer to use a computer, in the future you might not need to be a scientist to understand the data</p> 
@@ -40,7 +40,7 @@
 
 - name: Wireless Robotics Control # Project name, also used as heading
   id: p5 # Project id, must be unique amongst the projects
-  img_src: /assets/img/connectpie-page.png # Optional image
+  img_src: /assets/img/plant.jpg # Optional image
   description_less: (Intership @ USDA ARS) Using esp32 microcontrollers to wirelessly control 3d clinostat system. # Description shown at all times, text only
   description_more: > # Description shown only when the project card is expanded, HTML only
     <p>You need technical knowledge to analyze scientific data but many LLM's struggle to ground their analysis in observations (raw data). <br><br> Making a dataset and training Qwen2.5vl to analyze electrochemical data. <br><br> Like today you dont need to be a programmer to use a computer, in the future you might not need to be a scientist to understand the data</p> 
@@ -50,7 +50,7 @@
 
 - name: Over Terrain Vehicle # Project name, also used as heading
   id: p6 # Project id, must be unique amongst the projects
-  img_src: /assets/img/connectpie-page.png # Optional image
+  img_src: /assets/img/robot.jpg # Optional image
   description_less: Making an autonomous robot to move and take water samples. # Description shown at all times, text only
   description_more: > # Description shown only when the project card is expanded, HTML only
     <p>You need technical knowledge to analyze scientific data but many LLM's struggle to ground their analysis in observations (raw data). <br><br> Making a dataset and training Qwen2.5vl to analyze electrochemical data. <br><br> Like today you dont need to be a programmer to use a computer, in the future you might not need to be a scientist to understand the data</p> 
