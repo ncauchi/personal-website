@@ -13,9 +13,9 @@
   img_src: /assets/img/arm.jpg # Optional image
   description_less: (Intership @ PYC Lab UMD) Automating data collection for high throughput testing. # Description shown at all times, text only
   description_more: > # Description shown only when the project card is expanded, HTML only
-    <p>WIP</p> 
+    <p>Designing and building a fully autonomous testing pipeline that integrates lab hardware and computer vision operating without human intervention. <br><br> The system moves physical samples, scans data codes, performs tests, and formats data for ML workflows at 15 samples per hour through coordinated Python scripts, C++ hardware interfaces, and custom communication protocols. <br><br> This eliminated tedious manual work while delivering 2-3x faster throughput and higher-quality datasets for ongoing lab research.</p> 
   action_buttons: > # Action buttons for project, HTML only
-    <a href="https://www.noahcauchi.dev/2025/09/01/pyc.html" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> Read More</a>
+    <a href="https://www.noahcauchi.dev/2024/12/01/pyc.html" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> Read More</a>
   tags: [ML, internship] # A list of tags
 
 - name: Personal Server Project # Project name, also used as heading
