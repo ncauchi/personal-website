@@ -8,6 +8,16 @@
     <a href="https://www.noahcauchi.dev/2025/09/01/echem_llm.html" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> Read More</a>
   tags: [ML, internship] # A list of tags
 
+- name: Personal Server Project # Project name, also used as heading
+  id: p3 # Project id, must be unique amongst the projects
+  img_src: /assets/img/website.jpg # Optional image
+  description_less: Hosting web apps and services from my living room. # Description shown at all times, text only
+  description_more: > # Description shown only when the project card is expanded, HTML only
+    <p>WIP</p> 
+  action_buttons: > # Action buttons for project, HTML only
+    <a href="https://www.noahcauchi.dev/2000/01/01/wip.html" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> Read More</a>
+  tags: [personal] # A list of tags
+
 - name: Lab Automation # Project name, also used as heading
   id: p2 # Project id, must be unique amongst the projects
   img_src: /assets/img/arm.jpg # Optional image
@@ -18,15 +28,6 @@
     <a href="https://www.noahcauchi.dev/2024/12/01/pyc.html" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> Read More</a>
   tags: [ML, internship] # A list of tags
 
-- name: Personal Server Project # Project name, also used as heading
-  id: p3 # Project id, must be unique amongst the projects
-  img_src: /assets/img/website.jpg # Optional image
-  description_less: Hosting web apps and services from my living room. # Description shown at all times, text only
-  description_more: > # Description shown only when the project card is expanded, HTML only
-    <p>WIP</p> 
-  action_buttons: > # Action buttons for project, HTML only
-    <a href="https://www.noahcauchi.dev/2000/01/01/wip.html" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> Read More</a>
-  tags: [personal] # A list of tags
 
 - name: NBA Machine Learning Project # Project name, also used as heading
   id: p4 # Project id, must be unique amongst the projects
